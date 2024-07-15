@@ -1,0 +1,8 @@
+# vs-code
+.dist
+
+# Jupyter
+.ipynb_checkpoints
+
+# Conda
+.conda
