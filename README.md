@@ -16,3 +16,4 @@ Must have at least:
 
 ## ML Algorithms
 
+* **1 Linear layer Neural Network**
