@@ -6,3 +6,6 @@
 
 # Conda
 .conda
+
+# python
+__pycache__
