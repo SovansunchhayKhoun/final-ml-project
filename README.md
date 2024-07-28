@@ -13,7 +13,19 @@ Must have at least:
 * Python: 3.10
 
 ## Running the project
+### Install dependencies
+```shell
+$ pip install -r requirements.txt
+```
+### Start the project
+```
+jupyter notebook
+```
 
 ## ML Algorithms
 
-* **1 Linear layer Neural Network**
+* **Linear layer Neural Network**
+* **Random Forest**
+* **Support Vector Regressor**
+* **Linear regression**
+---
