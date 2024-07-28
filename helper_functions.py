@@ -35,8 +35,3 @@ def convert_numpy_to_tensor(data: pd.DataFrame):
   tensor = torch.from_numpy(np_array)
 
   return tensor
-
-def separate_input_and_target(data: pd.DataFrame, target: str):
-  train, label = data.drop(columns=target), data[target]
-
-  return train, label
